@@ -1,0 +1,34 @@
+/*
+ * assets/css/style.css
+ * ------------------------------------------------------------------
+ * Estilos personalizados do projeto.
+ * O Bootstrap já cuida de quase tudo; aqui fazemos pequenos ajustes.
+ * ------------------------------------------------------------------
+ */
+
+/* Cor de fundo suave para o sistema */
+body {
+    background-color: #f4f6f9;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Deixa os cards com cantos mais arredondados */
+.card {
+    border-radius: 12px;
+}
+
+/* Efeito leve ao passar o mouse nos cards do dashboard */
+.card.shadow-sm:hover {
+    transform: translateY(-3px);
+    transition: 0.2s;
+}
+
+/* Garante que a tela de login ocupe a altura toda da página */
+.min-vh-100 {
+    min-height: 100vh;
+}
+
+/* Pequeno espaçamento entre os botões de ação na tabela */
+.btn-sm {
+    margin: 1px;
+}
