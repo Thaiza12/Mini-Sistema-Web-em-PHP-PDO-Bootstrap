@@ -156,10 +156,6 @@ projeto/
 ## 👨‍💻 Integrantes
 
 - Thaiza Alves de França
-- Nome Integrante 2
-- Nome Integrante 3
-- Nome Integrante 4
-- Nome Integrante 5
 
 ---
 
